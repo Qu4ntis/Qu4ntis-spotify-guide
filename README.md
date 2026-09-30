@@ -13,7 +13,9 @@
 Файл: lists\list-general-user.txt (если нет — list-general.txt)
 
 <img width="693" height="40" alt="image" src="https://github.com/user-attachments/assets/44f98c8e-cdaa-4e8f-8844-9ab2f96df628" />
+
 либо
+
 <img width="692" height="39" alt="image" src="https://github.com/user-attachments/assets/bcd0eac6-b700-4bcb-ab71-4d4fac6b6e97" />
 
 
@@ -76,11 +78,9 @@ https://github.com/ungive/discord-music-presence
 - Если статус не появился сразу — перезагрузи ПК
 <img width="293" height="372" alt="image" src="https://github.com/user-attachments/assets/ed1cb028-d927-4e4c-8023-84fc122f37e4" />
 
-ВОТ И ВСЕ! ВСЕ РАБОТАЕТ! 
 
-<img width="1212" height="739" alt="image" src="https://github.com/user-attachments/assets/33d0180e-bb89-467c-bb98-4677ac7316de" />
+ВОТ И ВСЕ! ВСЕ РАБОТАЕТ!
 
- 
 
 связь с создателем:
 tg:@Qu4ntis
