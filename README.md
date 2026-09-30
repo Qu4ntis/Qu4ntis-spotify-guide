@@ -72,7 +72,8 @@ https://github.com/ungive/discord-music-presence
 
 === ПОСЛЕ ВСЕГО ===
 - Перезапусти Zapret (закрой .bat и запусти заново)
-- Перезапусти Discord
+- Перезапусти Discord                                    <img width="293" height="372" alt="image" src="https://github.com/user-attachments/assets/ed1cb028-d927-4e4c-8023-84fc122f37e4" />
+
 - Если статус не появился сразу — перезагрузи ПК
 
 ВОТ И ВСЕ! ВСЕ РАБОТАЕТ! 
@@ -81,8 +82,7 @@ https://github.com/ungive/discord-music-presence
 
  
 
-связь с создателем: <img width="620" height="827" alt="image" src="https://github.com/user-attachments/assets/d99ec737-aa85-4b60-b8ee-37b32d09c506" />
-
-
+связь с создателем:
 tg:@Qu4ntis
 поддержка автора (2202 2092 8357 2047)
+<img width="620" height="827" alt="image" src="https://github.com/user-attachments/assets/d99ec737-aa85-4b60-b8ee-37b32d09c506" />
