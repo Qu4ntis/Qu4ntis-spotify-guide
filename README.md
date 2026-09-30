@@ -3,11 +3,20 @@
 
 === SPOTIFY ОБХОД ===
 
+<img width="1228" height="626" alt="image" src="https://github.com/user-attachments/assets/0574edb3-8d40-4356-b6b1-11da9a306816" />
+
+
 1. ПОДГОТОВКА + ZAPRET
 Сначала скачай Spotify через VPN (любая страна, где он работает: США, Германия, Польша и т.п.) и зарегистрируйся там. VPN нужен только для установки и создания аккаунта, потом его можно выключить.
 После этого добавь в Zapret:
 
 Файл: lists\list-general-user.txt (если нет — list-general.txt)
+
+<img width="693" height="40" alt="image" src="https://github.com/user-attachments/assets/44f98c8e-cdaa-4e8f-8844-9ab2f96df628" />
+либо
+<img width="692" height="39" alt="image" src="https://github.com/user-attachments/assets/bcd0eac6-b700-4bcb-ab71-4d4fac6b6e97" />
+
+
 Вставь в конец:
 
 api.spotify.com
@@ -66,8 +75,14 @@ https://github.com/ungive/discord-music-presence
 - Перезапусти Discord
 - Если статус не появился сразу — перезагрузи ПК
 
-                                           *Фишки от Квантиса 
+ВОТ И ВСЕ! ВСЕ РАБОТАЕТ! 
 
-связь с создателем:
+<img width="1212" height="739" alt="image" src="https://github.com/user-attachments/assets/33d0180e-bb89-467c-bb98-4677ac7316de" />
+
+ 
+
+связь с создателем: <img width="620" height="827" alt="image" src="https://github.com/user-attachments/assets/d99ec737-aa85-4b60-b8ee-37b32d09c506" />
+
+
 tg:@Qu4ntis
 поддержка автора (2202 2092 8357 2047)
