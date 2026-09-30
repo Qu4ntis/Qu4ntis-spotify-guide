@@ -22,46 +22,82 @@
 Вставь в конец:
 
 api.spotify.com
+
 login5.spotify.com
+
 encore.scdn.co
+
 gew1-spclient.spotify.com
+
 spclient.wg.spotify.com
+
 api-partner.spotify.com
+
 aet.spotify.com
+
 www.spotify.com
+
 accounts.spotify.com
+
 open.spotify.com
+
 gew1-dealer.spotify.com
+
 accounts.scdn.co
+
 open-exp.spotifycdn.com
+
 www-growth.scdn.co
+
 
 
 2. ЧТОБЫ ГРУЗИЛО КАРТИНКИ / ОБЛОЖКИ
 Туда же, в тот же файл:
 
 i.scdn.co
+
 o.scdn.co
+
 p.scdn.co
+
 pl.scdn.co
+
 mosaic.scdn.co
+
 charts-images.scdn.co
+
 audio-fa.scdn.co
+
 line-in.scdn.co
+
 canonical.scdn.co
+
 canonical-v4.scdn.co
+
 t.scdn.co
+
 canvaz.scdn.co
+
 seektables.scdn.co
+
 image-cdn-fa.spotifycdn.com
+
 pickasso.spotifycdn.com
+
 seed-mix-image.spotifycdn.com
+
 concerts.spotifycdn.com
+
 thisis-images.spotifycdn.com
+
 spotifycdn.com
+
 spotifycdn.net
+
 podz-content.spotifycdn.com
+
 wap.spotifycdn.com
+
 web-sdk-assets.spotifycdn.com
 
 
