@@ -40,51 +40,51 @@
 2. ЧТОБЫ ГРУЗИЛО КАРТИНКИ / ОБЛОЖКИ
 Туда же, в тот же файл:
 
-i.scdn.co
+###i.scdn.co
 
-o.scdn.co
+###o.scdn.co
 
-p.scdn.co
+### p.scdn.co
 
-pl.scdn.co
+### pl.scdn.co
 
-mosaic.scdn.co
+### mosaic.scdn.co
 
-charts-images.scdn.co
+### charts-images.scdn.co
 
-audio-fa.scdn.co
+### audio-fa.scdn.co
 
-line-in.scdn.co
+### line-in.scdn.co
 
-canonical.scdn.co
+### canonical.scdn.co
 
-canonical-v4.scdn.co
+### canonical-v4.scdn.co
 
-t.scdn.co
+### t.scdn.co
 
-canvaz.scdn.co
+### canvaz.scdn.co
 
-seektables.scdn.co
+### seektables.scdn.co
 
-image-cdn-fa.spotifycdn.com
+### image-cdn-fa.spotifycdn.com
 
-pickasso.spotifycdn.com
+### pickasso.spotifycdn.com
 
-seed-mix-image.spotifycdn.com
+### seed-mix-image.spotifycdn.com
 
-concerts.spotifycdn.com
+### concerts.spotifycdn.com
 
-thisis-images.spotifycdn.com
+### thisis-images.spotifycdn.com
 
-spotifycdn.com
+### spotifycdn.com
 
-spotifycdn.net
+### spotifycdn.net
 
-podz-content.spotifycdn.com
+### podz-content.spotifycdn.com
 
-wap.spotifycdn.com
+### wap.spotifycdn.com
 
-web-sdk-assets.spotifycdn.com
+### web-sdk-assets.spotifycdn.com
 
 
 3. СТАТУС В DISCORD (ФИНАЛЬНАЯ КОРОЧКА)
