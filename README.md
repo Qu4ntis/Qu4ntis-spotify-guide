@@ -20,34 +20,20 @@
 
 
 Вставь в конец:
-
-api.spotify.com
-
-login5.spotify.com
-
-encore.scdn.co
-
-gew1-spclient.spotify.com
-
-spclient.wg.spotify.com
-
-api-partner.spotify.com
-
-aet.spotify.com
-
-www.spotify.com
-
-accounts.spotify.com
-
-open.spotify.com
-
-gew1-dealer.spotify.com
-
-accounts.scdn.co
-
-open-exp.spotifycdn.com
-
-www-growth.scdn.co
+### api.spotify.com
+### login5.spotify.com
+### encore.scdn.co
+### gew1-spclient.spotify.com
+### spclient.wg.spotify.com
+### api-partner.spotify.com
+### aet.spotify.com
+### www.spotify.com
+### accounts.spotify.com
+### open.spotify.com
+### gew1-dealer.spotify.com
+### accounts.scdn.co
+### open-exp.spotifycdn.com
+### www-growth.scdn.co
 
 
 
